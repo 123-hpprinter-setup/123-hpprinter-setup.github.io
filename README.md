@@ -22,7 +22,7 @@ _All  Printers are shipped with an Installation CD that has the printer software
 
 ## Troubleshooting Printer Setup
 
-**After installing the device drivers and software from 123.hp.com/setup try connecting the printer to the computer If any problems occur then follow the steps below.**
+**After installing the device drivers and software from 123 hp printer setup try connecting the printer to the computer If any problems occur then follow the steps below.**
 
 
 * The computer will first list the list of printers and other devices connected to the same network after installing the device drivers and software.
@@ -35,4 +35,4 @@ _All  Printers are shipped with an Installation CD that has the printer software
 
 * Next the computer will try to install the drivers and software. Then extracts and launches the software. Now follow the following steps given on the screen to complete the setup process.
 
-* Finally, the wireless network setup will now install at printer 123.hp.com/setup. After successfully installing the setup remove the USB cable.
+* Finally, the wireless network setup will now install at printer 123 hp printer setup. After successfully installing the setup remove the USB cable.
