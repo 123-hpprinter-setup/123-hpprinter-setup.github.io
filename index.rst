@@ -19,9 +19,9 @@
 Enter your HP product name and model number to get the right HP Smart software and drivers for you. Install HP Smart software and drivers on each mobile device or computer from which you want to print and add the printer to the new device.
 
 
-*************
+
 Printer Driver Installation
-*************
+============
 
 
 All  Printers are shipped with an Installation CD that has the printer software driver. However, you can also download and install the software drivers for your printer..
@@ -38,9 +38,9 @@ The Driver Installation procedure is almost the same for printers with display a
 8. Follow the instructions on the screen to complete the installation process.
 
 
-*************
+
 Troubleshooting Printer Setup
-*************
+============
 
 
 _After installing the device drivers and software from 123.hp.com/setup try connecting the printer to the computer If any problems occur then follow the steps below._
