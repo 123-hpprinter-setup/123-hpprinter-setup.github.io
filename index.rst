@@ -16,6 +16,7 @@
 |
 
 
+
 Enter your HP product name and model number to get the right HP Smart software and drivers for you. Install HP Smart software and drivers on each mobile device or computer from which you want to print and add the printer to the new device.
 
 
